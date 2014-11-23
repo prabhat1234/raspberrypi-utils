@@ -1,0 +1,17 @@
+PyAudio==0.2.4
+RPi.GPIO==0.5.8
+argparse==1.2.1
+devscripts==2.12.6-deb7u2
+mcpi==0.1.1
+numpy==1.6.2
+oauthlib==0.7.2
+picamera==1.8
+pifacecommon==4.0.0
+pifacedigitalio==3.0.4
+pygame==1.9.1release
+pygobject==3.8.2
+pyserial==2.5
+requests==2.4.3
+requests-oauthlib==0.4.2
+twython==3.2.0
+wsgiref==0.1.2
