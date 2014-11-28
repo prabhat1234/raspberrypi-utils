@@ -19,4 +19,4 @@ if len(com) > 1:
 
 
 #startng the new voicecommand process
-#commands.getoutput("voicecommand -c")
+commands.getoutput("voicecommand -c")
